@@ -1,1 +1,1 @@
-[![Hephaest's github stats](https://github-readme-stats.vercel.app/api?username=Hephaest&hide=issues&count_private=true&theme=tokyonight)]
+[![Hephaest's github stats](https://github-readme-stats.vercel.app/api?username=Hephaest&hide=issues&count_private=true&theme=tokyonight)](https://github.com/Hephaest)
