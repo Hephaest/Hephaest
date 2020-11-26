@@ -2,7 +2,7 @@ Hi there 👋
 - 🎓 I am an undergraduate student from Beijing Jiaotong University (Gap right now)
 - 💻 Previously interned at [Bytedance Inc](https://github.com/bytedance) as an iOS developer
 - 📈 Recently interest in Machine Learning and data visualization
-- 👀 Looking for a full-time position as a front-end engineer.
+- 👀 Looking for a full-time position as a front-end engineer
 - 👏 Feel Free to find/contact me in [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miao-cai-72437a186)
 
 <p align="center">
