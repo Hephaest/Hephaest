@@ -1,4 +1,4 @@
-Hi there 👋
+**Hi there 👋**
 - 🎓 I am an undergraduate student from Beijing Jiaotong University (Gap right now)
 - 💻 Previously interned at [Bytedance Inc](https://github.com/bytedance) as an iOS developer
 - 📈 Recently interest in Machine Learning and data visualization
