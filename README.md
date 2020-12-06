@@ -1,4 +1,7 @@
 **Hi there 👋**
+
+![](https://komarev.com/ghpvc/?username=Hephaest&color=lightgrey&style=flat-square&label=Views)
+
 - 🎓 I am an undergraduate student from Beijing Jiaotong University (Gap right now)
 - 💻 Previously interned at [Bytedance Inc](https://github.com/bytedance) as an iOS developer
 - 📈 Recently work on Machine Learning and Data Visualization
