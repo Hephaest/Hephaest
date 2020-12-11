@@ -8,7 +8,7 @@
 - 💻 Previously interned at [Bytedance Inc](https://github.com/bytedance) as an iOS developer
 - 📈 Recently work on Machine Learning and Data Visualization
 - 👀 Looking for a full-time position as a front-end engineer in Shanghai
-- 👏 Feel Free to find/contact me in [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miao-cai-72437a186)
+- 👏 Feel free to find/contact me in [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miao-cai-72437a186)
 
 #### Platform & Tools
 [![](https://img.shields.io/badge/macOS-Catalina-d0d1d4?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/catalina/)>)
