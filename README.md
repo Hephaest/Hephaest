@@ -4,7 +4,7 @@
 
 #### About Me
 
-- 🎓 I am an undergraduate student from Beijing Jiaotong University
+- 🎓 Undergraduate student from Beijing Jiaotong University
 - 💻 Previously interned at [Bytedance Inc](https://github.com/bytedance) as an iOS developer
 - 📈 Recently work on Machine Learning and Data Visualization
 - 👀 Looking for a full-time position as a front-end engineer in Shanghai
