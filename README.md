@@ -16,6 +16,6 @@
 [![](https://img.shields.io/badge/Ubuntu-16.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
 
 <p align="center">
-  <img src ="https://github-readme-stats-hephaest.vercel.app/api?username=Hephaest&hide=issues&count_private=true&hide_border=true&bg_color=00000000&title_color=1d87da&text_color=539bf5&show_icons=true&icon_color=539bf5">
-  <img src ="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=Hephaest&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css,digital%20command%20language&hide_border=true&bg_color=00000000&title_color=1d87da&text_color=539bf5">
+  <img src ="https://github-readme-stats-hephaest.vercel.app/api?username=Hephaest&hide=issues&count_private=true&hide_border=true&show_icons=true&theme=transblue">
+  <img src ="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=Hephaest&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css,digital%20command%20language&hide_border=true&theme=transblue">
 </p>
