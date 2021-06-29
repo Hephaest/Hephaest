@@ -47,5 +47,5 @@
 
 <p align="center">
   <img src ="https://github-readme-stats-hephaest.vercel.app/api?username=Hephaest&hide=issues&count_private=true&hide_border=true&show_icons=true&theme=transblue">
-  <img src ="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=Hephaest&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css,digital%20command%20language&hide_border=true&theme=transblue">
+  <img src ="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=Hephaest&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css,digital%20command%20language,shell,c,matlab,erlang&hide_border=true&theme=transblue">
 </p>
