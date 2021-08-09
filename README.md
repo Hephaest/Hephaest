@@ -5,6 +5,7 @@
 ### About Me
 
 - 🎓 Graduated with a Bachelor degree in Computer Science and Technology
+- 💻 Previously interned at [Bytedance Inc](https://www.bytedance.com/) as an iOS developer
 - 👀 Looking for a full-time position as a front-end engineer in Shanghai
 
 ### Top Languages
