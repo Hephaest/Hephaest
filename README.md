@@ -2,12 +2,6 @@
 
 ![](https://nextjs-view-counter-hephaest.vercel.app/api/counter)
 
-### About Me
-
-- 🎓 Graduated with a Bachelor degree in Computer Science and Technology
-- 💻 Previously interned at [Bytedance Inc](https://www.bytedance.com/) as an iOS developer
-- 👀 Looking for a full-time position as a front-end engineer in Shanghai
-
 ### Top Languages
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
